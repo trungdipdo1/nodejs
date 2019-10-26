@@ -7,4 +7,5 @@ function object(name, born, majors, gender){
     return student;
 }
 myObject  = object("Trung", 2000, "Information technology", "male");
+ourObject = object("CNTTK44", 2000, "Information technology", "male and female");
 console.log(myObject);
